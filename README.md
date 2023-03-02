@@ -1,10 +1,10 @@
 # About Project
-In this project I created doodle jump game. Game development concepts included in this project:
--	Jump mechanics
--	Gravity and Friction
--	Random Level Generation
-- Creating a Score counter
-and much more!
+In this project I recreated doodle jump using pygame. Game includes:
+- 6 different biomes
+- 4 types of mobs
+- And much more!
+
+###### run.exe located in `/doodle jump/run/run.exe`
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/58309601/222531397-cf9c9674-b108-4802-8fa1-6918766e359a.png)
